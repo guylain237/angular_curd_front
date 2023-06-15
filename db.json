@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 200,
+      "comment": "fresh mango",
+      "date": "2022-04-06T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "salade",
+      "category": "Vegetables",
+      "freshness": "Second hand",
+      "price": 500,
+      "comment": "fresh salad",
+      "date": "2022-04-06T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "pineapple",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 400,
+      "comment": "pineapple",
+      "date": "2022-04-07T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "pawpaw",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "fresh pawpaw",
+      "date": "2022-04-07T22:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "fresh banana",
+      "date": "2022-04-07T22:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "raisin",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 500,
+      "comment": "fresh raisin",
+      "date": "2022-04-07T22:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
